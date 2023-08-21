@@ -1,5 +1,5 @@
 # yuri.com
-Portfólio pessoal
+Portfólio pessoal / Personal portfolio
 
 Olá, este é o meu portfólio pessoal, onde serão incluídos todos os trabalhos relacionados a desenvolvimento web que desenvolvi.
 
